@@ -1,0 +1,410 @@
+[15-Nov-2022 11:44:06 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(356): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(427): Illuminate\Foundation\Exceptions\Handler->render()
+#6 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(115): Illuminate\Foundation\Http\Kernel->renderException()
+#7 /home/justcode2020/public_html/AllProjects/AppBonus/public/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#8 {main}
+  thrown in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[15-Nov-2022 11:44:14 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(356): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(427): Illuminate\Foundation\Exceptions\Handler->render()
+#6 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(115): Illuminate\Foundation\Http\Kernel->renderException()
+#7 /home/justcode2020/public_html/AllProjects/AppBonus/public/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#8 {main}
+  thrown in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[15-Nov-2022 11:44:23 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(356): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(427): Illuminate\Foundation\Exceptions\Handler->render()
+#6 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(115): Illuminate\Foundation\Http\Kernel->renderException()
+#7 /home/justcode2020/public_html/AllProjects/AppBonus/public/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#8 {main}
+  thrown in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[15-Nov-2022 11:44:25 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(356): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(427): Illuminate\Foundation\Exceptions\Handler->render()
+#6 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(115): Illuminate\Foundation\Http\Kernel->renderException()
+#7 /home/justcode2020/public_html/AllProjects/AppBonus/public/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#8 {main}
+  thrown in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[15-Nov-2022 11:45:33 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(356): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(427): Illuminate\Foundation\Exceptions\Handler->render()
+#6 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(115): Illuminate\Foundation\Http\Kernel->renderException()
+#7 /home/justcode2020/public_html/AllProjects/AppBonus/public/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#8 {main}
+  thrown in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[15-Nov-2022 11:45:34 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(356): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(427): Illuminate\Foundation\Exceptions\Handler->render()
+#6 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(115): Illuminate\Foundation\Http\Kernel->renderException()
+#7 /home/justcode2020/public_html/AllProjects/AppBonus/public/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#8 {main}
+  thrown in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[15-Nov-2022 11:45:35 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(356): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(427): Illuminate\Foundation\Exceptions\Handler->render()
+#6 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(115): Illuminate\Foundation\Http\Kernel->renderException()
+#7 /home/justcode2020/public_html/AllProjects/AppBonus/public/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#8 {main}
+  thrown in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[15-Nov-2022 11:45:35 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(356): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(427): Illuminate\Foundation\Exceptions\Handler->render()
+#6 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(115): Illuminate\Foundation\Http\Kernel->renderException()
+#7 /home/justcode2020/public_html/AllProjects/AppBonus/public/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#8 {main}
+  thrown in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[15-Nov-2022 11:45:35 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(356): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(427): Illuminate\Foundation\Exceptions\Handler->render()
+#6 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(115): Illuminate\Foundation\Http\Kernel->renderException()
+#7 /home/justcode2020/public_html/AllProjects/AppBonus/public/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#8 {main}
+  thrown in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[15-Nov-2022 11:45:36 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(356): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(427): Illuminate\Foundation\Exceptions\Handler->render()
+#6 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(115): Illuminate\Foundation\Http\Kernel->renderException()
+#7 /home/justcode2020/public_html/AllProjects/AppBonus/public/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#8 {main}
+  thrown in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[15-Nov-2022 11:45:36 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(356): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(427): Illuminate\Foundation\Exceptions\Handler->render()
+#6 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(115): Illuminate\Foundation\Http\Kernel->renderException()
+#7 /home/justcode2020/public_html/AllProjects/AppBonus/public/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#8 {main}
+  thrown in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[15-Nov-2022 11:45:36 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(356): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(427): Illuminate\Foundation\Exceptions\Handler->render()
+#6 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(115): Illuminate\Foundation\Http\Kernel->renderException()
+#7 /home/justcode2020/public_html/AllProjects/AppBonus/public/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#8 {main}
+  thrown in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[15-Nov-2022 11:45:36 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(356): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(427): Illuminate\Foundation\Exceptions\Handler->render()
+#6 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(115): Illuminate\Foundation\Http\Kernel->renderException()
+#7 /home/justcode2020/public_html/AllProjects/AppBonus/public/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#8 {main}
+  thrown in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[15-Nov-2022 11:45:36 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(356): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(427): Illuminate\Foundation\Exceptions\Handler->render()
+#6 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(115): Illuminate\Foundation\Http\Kernel->renderException()
+#7 /home/justcode2020/public_html/AllProjects/AppBonus/public/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#8 {main}
+  thrown in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[15-Nov-2022 11:45:37 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(356): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(427): Illuminate\Foundation\Exceptions\Handler->render()
+#6 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(115): Illuminate\Foundation\Http\Kernel->renderException()
+#7 /home/justcode2020/public_html/AllProjects/AppBonus/public/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#8 {main}
+  thrown in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[15-Nov-2022 11:45:37 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(356): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(427): Illuminate\Foundation\Exceptions\Handler->render()
+#6 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(115): Illuminate\Foundation\Http\Kernel->renderException()
+#7 /home/justcode2020/public_html/AllProjects/AppBonus/public/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#8 {main}
+  thrown in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[15-Nov-2022 11:45:37 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(356): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(427): Illuminate\Foundation\Exceptions\Handler->render()
+#6 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(115): Illuminate\Foundation\Http\Kernel->renderException()
+#7 /home/justcode2020/public_html/AllProjects/AppBonus/public/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#8 {main}
+  thrown in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[15-Nov-2022 11:45:43 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(356): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(427): Illuminate\Foundation\Exceptions\Handler->render()
+#6 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(115): Illuminate\Foundation\Http\Kernel->renderException()
+#7 /home/justcode2020/public_html/AllProjects/AppBonus/public/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#8 {main}
+  thrown in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[15-Nov-2022 11:45:46 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(356): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(427): Illuminate\Foundation\Exceptions\Handler->render()
+#6 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(115): Illuminate\Foundation\Http\Kernel->renderException()
+#7 /home/justcode2020/public_html/AllProjects/AppBonus/public/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#8 {main}
+  thrown in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[15-Nov-2022 11:45:58 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(356): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(427): Illuminate\Foundation\Exceptions\Handler->render()
+#6 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(115): Illuminate\Foundation\Http\Kernel->renderException()
+#7 /home/justcode2020/public_html/AllProjects/AppBonus/public/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#8 {main}
+  thrown in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[15-Nov-2022 11:46:00 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(356): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(427): Illuminate\Foundation\Exceptions\Handler->render()
+#6 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(115): Illuminate\Foundation\Http\Kernel->renderException()
+#7 /home/justcode2020/public_html/AllProjects/AppBonus/public/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#8 {main}
+  thrown in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[15-Nov-2022 11:46:50 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(356): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(427): Illuminate\Foundation\Exceptions\Handler->render()
+#6 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(115): Illuminate\Foundation\Http\Kernel->renderException()
+#7 /home/justcode2020/public_html/AllProjects/AppBonus/public/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#8 {main}
+  thrown in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[15-Nov-2022 11:46:51 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(356): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(427): Illuminate\Foundation\Exceptions\Handler->render()
+#6 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(115): Illuminate\Foundation\Http\Kernel->renderException()
+#7 /home/justcode2020/public_html/AllProjects/AppBonus/public/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#8 {main}
+  thrown in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[15-Nov-2022 11:46:58 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(356): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(427): Illuminate\Foundation\Exceptions\Handler->render()
+#6 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(115): Illuminate\Foundation\Http\Kernel->renderException()
+#7 /home/justcode2020/public_html/AllProjects/AppBonus/public/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#8 {main}
+  thrown in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[15-Nov-2022 11:50:00 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(356): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(427): Illuminate\Foundation\Exceptions\Handler->render()
+#6 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(115): Illuminate\Foundation\Http\Kernel->renderException()
+#7 /home/justcode2020/public_html/AllProjects/AppBonus/public/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#8 {main}
+  thrown in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[15-Nov-2022 11:50:12 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(356): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(427): Illuminate\Foundation\Exceptions\Handler->render()
+#6 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(115): Illuminate\Foundation\Http\Kernel->renderException()
+#7 /home/justcode2020/public_html/AllProjects/AppBonus/public/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#8 {main}
+  thrown in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[15-Nov-2022 11:50:16 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(356): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(427): Illuminate\Foundation\Exceptions\Handler->render()
+#6 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(115): Illuminate\Foundation\Http\Kernel->renderException()
+#7 /home/justcode2020/public_html/AllProjects/AppBonus/public/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#8 {main}
+  thrown in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[15-Nov-2022 11:51:16 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(356): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(427): Illuminate\Foundation\Exceptions\Handler->render()
+#6 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(115): Illuminate\Foundation\Http\Kernel->renderException()
+#7 /home/justcode2020/public_html/AllProjects/AppBonus/public/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#8 {main}
+  thrown in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[15-Nov-2022 11:53:45 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(356): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(427): Illuminate\Foundation\Exceptions\Handler->render()
+#6 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(115): Illuminate\Foundation\Http\Kernel->renderException()
+#7 /home/justcode2020/public_html/AllProjects/AppBonus/public/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#8 {main}
+  thrown in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[15-Nov-2022 11:53:56 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(356): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(427): Illuminate\Foundation\Exceptions\Handler->render()
+#6 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(115): Illuminate\Foundation\Http\Kernel->renderException()
+#7 /home/justcode2020/public_html/AllProjects/AppBonus/public/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#8 {main}
+  thrown in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[15-Nov-2022 11:54:16 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(356): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(427): Illuminate\Foundation\Exceptions\Handler->render()
+#6 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(115): Illuminate\Foundation\Http\Kernel->renderException()
+#7 /home/justcode2020/public_html/AllProjects/AppBonus/public/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#8 {main}
+  thrown in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[15-Nov-2022 11:54:43 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(356): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(427): Illuminate\Foundation\Exceptions\Handler->render()
+#6 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(115): Illuminate\Foundation\Http\Kernel->renderException()
+#7 /home/justcode2020/public_html/AllProjects/AppBonus/public/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#8 {main}
+  thrown in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[15-Nov-2022 11:55:04 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(356): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(427): Illuminate\Foundation\Exceptions\Handler->render()
+#6 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(115): Illuminate\Foundation\Http\Kernel->renderException()
+#7 /home/justcode2020/public_html/AllProjects/AppBonus/public/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#8 {main}
+  thrown in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[15-Nov-2022 11:58:56 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(356): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(427): Illuminate\Foundation\Exceptions\Handler->render()
+#6 /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(115): Illuminate\Foundation\Http\Kernel->renderException()
+#7 /home/justcode2020/public_html/AllProjects/AppBonus/public/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#8 {main}
+  thrown in /home/justcode2020/public_html/AllProjects/AppBonus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[17-Nov-2022 06:50:02 UTC] PHP Fatal error:  Class App\Exports\UsersExport contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (Maatwebsite\Excel\Concerns\ToModel::model) in /home/justcode2020/public_html/AllProjects/AppBonus/app/Exports/UsersExport.php on line 11
+[18-Nov-2022 08:07:24 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/justcode2020/public_html/AllProjects/AppBonus/app/Http/Controllers/Api/UserController.php on line 4

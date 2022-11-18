@@ -1,0 +1,367 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "https://appbonus.justcode.am/",
+        "version": "1.0.0"
+    },
+    "paths": {
+        "/api/ActiveCompany": {
+            "get": {
+                "tags": [
+                    "Company List"
+                ],
+                "summary": "ActiveCompany",
+                "description": "Veradarcnuma  bolor  active  companyner@   sortavoruma  @st iranc tvac bonusneri  nvazman kargov",
+                "operationId": "ActiveCompany",
+                "requestBody": {
+                    "required": true,
+                    "content": {
+                        "application/json": {
+                            "schema": {}
+                        }
+                    }
+                },
+                "responses": {
+                    "200": {
+                        "description": "Veradarcnuma  bolor  active  companyner@   sortavoruma  @st iranc tvac bonusneri  nvazman kargov",
+                        "content": {
+                            "application/json": {
+                                "schema": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/api/ScanUser/user_id=1": {
+            "get": {
+                "tags": [
+                    "Qr"
+                ],
+                "summary": "ScanUser",
+                "description": "Veradarcnuma  Qr Code Activa te voch",
+                "operationId": "ScanUser",
+                "requestBody": {
+                    "required": true,
+                    "content": {
+                        "application/json": {
+                            "schema": {}
+                        }
+                    }
+                },
+                "responses": {
+                    "200": {
+                        "description": "Veradarcnuma  Qr Code Activa te voch",
+                        "content": {
+                            "application/json": {
+                                "schema": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/api/register": {
+            "post": {
+                "tags": [
+                    "Auth"
+                ],
+                "summary": "register",
+                "description": "register",
+                "operationId": "register",
+                "requestBody": {
+                    "description": "Pass user register",
+                    "required": true,
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "properties": {
+                                    "name": {
+                                        "type": "string",
+                                        "format": "text",
+                                        "example": "ФИО"
+                                    },
+                                    "phone": {
+                                        "type": "string",
+                                        "format": "text",
+                                        "example": "+37493073584"
+                                    },
+                                    "email": {
+                                        "type": "string",
+                                        "format": "email",
+                                        "example": "arman-aleqyan@mail.ru"
+                                    },
+                                    "password": {
+                                        "type": "string",
+                                        "format": "text",
+                                        "example": "11111111"
+                                    },
+                                    "password_confirmation": {
+                                        "type": "string",
+                                        "format": "text",
+                                        "example": "11111111"
+                                    }
+                                },
+                                "type": "object"
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "200": {
+                        "description": "register created",
+                        "content": {
+                            "application/json": {
+                                "schema": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/api/VerifyRegister": {
+            "post": {
+                "tags": [
+                    "Auth"
+                ],
+                "summary": "VerifyRegister",
+                "description": "VerifyRegister",
+                "operationId": "VerifyRegister",
+                "requestBody": {
+                    "description": "Pass user register",
+                    "required": true,
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "properties": {
+                                    "code": {
+                                        "type": "string",
+                                        "format": "text",
+                                        "example": "12345"
+                                    }
+                                },
+                                "type": "object"
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "200": {
+                        "description": "VerifyRegister",
+                        "content": {
+                            "application/json": {
+                                "schema": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/api/SendNewCode": {
+            "post": {
+                "tags": [
+                    "Auth"
+                ],
+                "summary": "SendNewCode",
+                "description": "SendNewCode",
+                "operationId": "SendNewCode",
+                "requestBody": {
+                    "description": "uxarkum eq  datark zapros   headersum  token@  vorpesi es noric  mailin cod  uxarkem",
+                    "required": true,
+                    "content": {
+                        "application/json": {
+                            "schema": {}
+                        }
+                    }
+                },
+                "responses": {
+                    "200": {
+                        "description": "SendNewCode",
+                        "content": {
+                            "application/json": {
+                                "schema": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/api/ForgotPassword": {
+            "post": {
+                "tags": [
+                    "Auth"
+                ],
+                "summary": "ForgotPassword",
+                "description": "ForgotPassword",
+                "operationId": "ForgotPassword",
+                "requestBody": {
+                    "description": "uxarkum eq  grancvac  mail@  zabil parol functional@ ashxatacnelu hamar  ete mail@ goyutyun chuni stanum eq wrong user email ev tvyal mail@ pahum eq  storagum vorpesi hajord zaprosum eli uxarkeq takic",
+                    "required": true,
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "properties": {
+                                    "email": {
+                                        "type": "string",
+                                        "format": "text",
+                                        "example": "arman-aleqyan@mail.ru"
+                                    }
+                                },
+                                "type": "object"
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "200": {
+                        "description": "ForgotPassword",
+                        "content": {
+                            "application/json": {
+                                "schema": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/api/ResetCodePassword": {
+            "post": {
+                "tags": [
+                    "Auth"
+                ],
+                "summary": "ResetCodePassword",
+                "description": "ResetCodePassword",
+                "operationId": "ResetCodePassword",
+                "requestBody": {
+                    "description": "uxarkum eq storagum pahvac  email@  ev  mailin ekac  kod@  stanumeq kam chishta kam sxala ev  tvyal kod@ ev mail@  pahumeq  storagum  vorpesi hajord zaprosin uxarkeq",
+                    "required": true,
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "properties": {
+                                    "email": {
+                                        "type": "string",
+                                        "format": "text",
+                                        "example": "arman-aleqyan@mail.ru"
+                                    },
+                                    "forgot_code": {
+                                        "type": "string",
+                                        "format": "text",
+                                        "example": "12345"
+                                    }
+                                },
+                                "type": "object"
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "200": {
+                        "description": "ResetCodePassword",
+                        "content": {
+                            "application/json": {
+                                "schema": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/api/NewPassword": {
+            "post": {
+                "tags": [
+                    "Auth"
+                ],
+                "summary": "NewPassword",
+                "description": "NewPassword",
+                "operationId": "NewPassword",
+                "requestBody": {
+                    "description": "uxarkum eq  storage mail@ ev cod@   ev nor password@  ",
+                    "required": true,
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "properties": {
+                                    "email": {
+                                        "type": "string",
+                                        "format": "text",
+                                        "example": "arman-aleqyan@mail.ru"
+                                    },
+                                    "forgot_code": {
+                                        "type": "string",
+                                        "format": "text",
+                                        "example": "12345"
+                                    },
+                                    "password": {
+                                        "type": "string",
+                                        "format": "text",
+                                        "example": "11111111"
+                                    },
+                                    "password_confirmation": {
+                                        "type": "string",
+                                        "format": "text",
+                                        "example": "11111111"
+                                    }
+                                },
+                                "type": "object"
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "200": {
+                        "description": "NewPassword",
+                        "content": {
+                            "application/json": {
+                                "schema": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/api/UserLogin": {
+            "post": {
+                "tags": [
+                    "Auth"
+                ],
+                "summary": "UserLogin",
+                "description": "UserLogin",
+                "operationId": "UserLogin",
+                "requestBody": {
+                    "description": "uxarkum eq  login keyov  mail@   mekel password@     role_id =2  da menegerna  role_id=3 da appic  ogtvox sovorakan userna",
+                    "required": true,
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "properties": {
+                                    "email": {
+                                        "type": "string",
+                                        "format": "text",
+                                        "example": "arman-aleqyan@mail.ru"
+                                    },
+                                    "password": {
+                                        "type": "string",
+                                        "format": "text",
+                                        "example": "11111111"
+                                    }
+                                },
+                                "type": "object"
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "200": {
+                        "description": "UserLogin",
+                        "content": {
+                            "application/json": {
+                                "schema": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
